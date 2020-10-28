@@ -44,7 +44,7 @@ Finally we run our script and we will have the following result.
 ![final result](images/final-result.png)
 
 ## :bug: Issues
-Feel free to ** register a new problem ** with a respective title and description in the [Face Recognition](https://github.com/henriquebeckmann/face_recognition/issues) repository. If you've found a solution to your problem, ** I'd love to review your pull request **!
+Feel free to **register a new problem** with a respective title and description in the [Face Recognition](https://github.com/henriquebeckmann/face_recognition/issues) repository. If you've found a solution to your problem, **I'd love to review your pull request**!
 
 ## :closed_book: License
 
