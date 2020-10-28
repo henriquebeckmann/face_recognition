@@ -49,4 +49,4 @@ Feel free to **register a new problem** with a respective title and description 
 ## :closed_book: License
 
 Released in 2020.
-This project is under the [MIT license](https://github.com/henriquebeckmann/i_am_learning/blob/main/LICENSE).
+This project is under the [MIT license](https://github.com/henriquebeckmann/face_recognition/blob/main/LICENSE).
